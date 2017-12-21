@@ -18,7 +18,7 @@ namespace Converter
         {
             List<String> result = new List<String>();
 
-            //Split words by regex pattern
+            //Split words by regex pattern (group of alphabetic characters)
             String[] subStrings = Regex.Split(input, @"([a-zA-Z]+)", RegexOptions.IgnoreCase);
             foreach (string s in subStrings)
             {
@@ -32,6 +32,8 @@ namespace Converter
         {
             List<String> result = new List<String>();
 
+            //Convert each found word with given spec: first char + count of chars between first-last char + last char
+            //Keep the original orders of words and non-alphabetic chars.
             foreach(string s in input)
             {
                 if(Regex.IsMatch(s, "[a-zA-Z]") && s.ToCharArray().Length>1)
@@ -49,6 +51,7 @@ namespace Converter
 
         protected static String WordBuilder(List<String> input)
         {
+            //Join the converted words together as final result
             string result = String.Join("", input);
             return result;
         }

@@ -16,7 +16,6 @@ namespace Converter_Tests
         {
             var actualResult = StringConverter.Convert(input);
             Assert.Equal(expectedResult, actualResult);
-
         }
     }
 }
