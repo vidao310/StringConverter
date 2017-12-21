@@ -1,0 +1,15 @@
+/Users/vi.dao/Documents/Code/string-convert/Converter_Tests/bin/Debug/netcoreapp2.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/vi.dao/Documents/Code/string-convert/Converter_Tests/bin/Debug/netcoreapp2.0/xunit.runner.utility.netstandard15.dll
+/Users/vi.dao/Documents/Code/string-convert/Converter_Tests/bin/Debug/netcoreapp2.0/xunit.runner.reporters.netstandard15.dll
+/Users/vi.dao/Documents/Code/string-convert/Converter_Tests/bin/Debug/netcoreapp2.0/Converter_Tests.deps.json
+/Users/vi.dao/Documents/Code/string-convert/Converter_Tests/bin/Debug/netcoreapp2.0/Converter_Tests.runtimeconfig.json
+/Users/vi.dao/Documents/Code/string-convert/Converter_Tests/bin/Debug/netcoreapp2.0/Converter_Tests.runtimeconfig.dev.json
+/Users/vi.dao/Documents/Code/string-convert/Converter_Tests/bin/Debug/netcoreapp2.0/Converter_Tests.dll
+/Users/vi.dao/Documents/Code/string-convert/Converter_Tests/bin/Debug/netcoreapp2.0/Converter_Tests.pdb
+/Users/vi.dao/Documents/Code/string-convert/Converter_Tests/bin/Debug/netcoreapp2.0/Converter.dll
+/Users/vi.dao/Documents/Code/string-convert/Converter_Tests/bin/Debug/netcoreapp2.0/Converter.pdb
+/Users/vi.dao/Documents/Code/string-convert/Converter_Tests/obj/Debug/netcoreapp2.0/Converter_Tests.csproj.CoreCompileInputs.cache
+/Users/vi.dao/Documents/Code/string-convert/Converter_Tests/obj/Debug/netcoreapp2.0/Converter_Tests.AssemblyInfoInputs.cache
+/Users/vi.dao/Documents/Code/string-convert/Converter_Tests/obj/Debug/netcoreapp2.0/Converter_Tests.AssemblyInfo.cs
+/Users/vi.dao/Documents/Code/string-convert/Converter_Tests/obj/Debug/netcoreapp2.0/Converter_Tests.dll
+/Users/vi.dao/Documents/Code/string-convert/Converter_Tests/obj/Debug/netcoreapp2.0/Converter_Tests.pdb

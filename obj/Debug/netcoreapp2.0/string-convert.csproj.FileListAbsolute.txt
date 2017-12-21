@@ -1,0 +1,3 @@
+/Users/vi.dao/Documents/Code/string-convert/obj/Debug/netcoreapp2.0/string-convert.csproj.CoreCompileInputs.cache
+/Users/vi.dao/Documents/Code/string-convert/obj/Debug/netcoreapp2.0/string-convert.AssemblyInfoInputs.cache
+/Users/vi.dao/Documents/Code/string-convert/obj/Debug/netcoreapp2.0/string-convert.AssemblyInfo.cs

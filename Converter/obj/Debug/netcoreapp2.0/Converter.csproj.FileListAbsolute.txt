@@ -1,0 +1,10 @@
+/Users/vi.dao/Documents/Code/string-convert/Converter/bin/Debug/netcoreapp2.0/Converter.deps.json
+/Users/vi.dao/Documents/Code/string-convert/Converter/bin/Debug/netcoreapp2.0/Converter.runtimeconfig.json
+/Users/vi.dao/Documents/Code/string-convert/Converter/bin/Debug/netcoreapp2.0/Converter.runtimeconfig.dev.json
+/Users/vi.dao/Documents/Code/string-convert/Converter/bin/Debug/netcoreapp2.0/Converter.dll
+/Users/vi.dao/Documents/Code/string-convert/Converter/bin/Debug/netcoreapp2.0/Converter.pdb
+/Users/vi.dao/Documents/Code/string-convert/Converter/obj/Debug/netcoreapp2.0/Converter.csproj.CoreCompileInputs.cache
+/Users/vi.dao/Documents/Code/string-convert/Converter/obj/Debug/netcoreapp2.0/Converter.AssemblyInfoInputs.cache
+/Users/vi.dao/Documents/Code/string-convert/Converter/obj/Debug/netcoreapp2.0/Converter.AssemblyInfo.cs
+/Users/vi.dao/Documents/Code/string-convert/Converter/obj/Debug/netcoreapp2.0/Converter.dll
+/Users/vi.dao/Documents/Code/string-convert/Converter/obj/Debug/netcoreapp2.0/Converter.pdb
