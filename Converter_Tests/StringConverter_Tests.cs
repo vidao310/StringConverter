@@ -9,9 +9,10 @@ namespace Converter_Tests
     {
         [Theory]
         [InlineData("Test123 Auto parts","T2t123 A2o p3s")]
-        [InlineData("automatioN$*^Test","a8N$*^T2t")]
+        [InlineData("automatioN$*^Test","a6N$*^T2t")]
         [InlineData("Tp T *ABC", "T0p T *A1C")]
-        [InlineData("Automotive parts", "A8e p3s")] //Wrong expected result in given spec "A6e p3s"
+        [InlineData("Automotive parts", "A6e p3s")]
+        [InlineData("AuTomOtive parts", "A6e p3s")]
         public void Test_Converted_String(string input, string expectedResult)
         {
             var actualResult = StringConverter.Convert(input);
