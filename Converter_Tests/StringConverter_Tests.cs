@@ -13,6 +13,7 @@ namespace Converter_Tests
         [InlineData("Tp T *ABC", "T0p T *A1C")]
         [InlineData("Automotive parts", "A6e p3s")]
         [InlineData("AuTomOtive parts", "A6e p3s")]
+        [InlineData("$AuTomOtive parts", "$A6e p3s")]
         public void Test_Converted_String(string input, string expectedResult)
         {
             var actualResult = StringConverter.Convert(input);
